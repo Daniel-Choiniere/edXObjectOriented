@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C4F66E32-09F7-4F14-A0FB-F5F0DC9A0A47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="edXObjectOrientedProgramming/Program.cs">
+    <Files>
+      <File FileName="edXObjectOrientedProgramming/Program.cs" Line="16" Column="131" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.edXObjectOrientedProgramming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
