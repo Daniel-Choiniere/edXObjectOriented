@@ -1,0 +1,5 @@
+/Users/danchoiniere/careerDevs/careerDevsInner/edXObjectOriented/mod1_c/mod1_c/obj/Debug/mod1_c.csprojAssemblyReference.cache
+/Users/danchoiniere/careerDevs/careerDevsInner/edXObjectOriented/mod1_c/mod1_c/bin/Debug/mod1_c.exe
+/Users/danchoiniere/careerDevs/careerDevsInner/edXObjectOriented/mod1_c/mod1_c/bin/Debug/mod1_c.pdb
+/Users/danchoiniere/careerDevs/careerDevsInner/edXObjectOriented/mod1_c/mod1_c/obj/Debug/mod1_c.exe
+/Users/danchoiniere/careerDevs/careerDevsInner/edXObjectOriented/mod1_c/mod1_c/obj/Debug/mod1_c.pdb

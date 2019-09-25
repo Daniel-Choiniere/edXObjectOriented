@@ -1,0 +1,4 @@
+/Users/danchoiniere/careerDevs/careerDevsInner/edXObjectOriented/edXObjectOrientedProgramming/bin/Debug/edXObjectOrientedProgramming.exe
+/Users/danchoiniere/careerDevs/careerDevsInner/edXObjectOriented/edXObjectOrientedProgramming/bin/Debug/edXObjectOrientedProgramming.pdb
+/Users/danchoiniere/careerDevs/careerDevsInner/edXObjectOriented/edXObjectOrientedProgramming/obj/Debug/edXObjectOrientedProgramming.exe
+/Users/danchoiniere/careerDevs/careerDevsInner/edXObjectOriented/edXObjectOrientedProgramming/obj/Debug/edXObjectOrientedProgramming.pdb

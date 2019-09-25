@@ -1,22 +1,19 @@
-﻿<Properties StartupConfiguration="{12ED5388-DD81-4915-8507-540371CBA1D0}|Default">
-  <MonoDevelop.Ide.ItemProperties.mod1__B FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.mod2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{C4F66E32-09F7-4F14-A0FB-F5F0DC9A0A47}|Default">
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="edXObjectOrientedProgramming" expanded="True">
-            <Node name="mod1_A" selected="True" />
-          </Node>
+          <Node name="mod1_A" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="ClassPad">
         <State name="__root__">
-          <Node name="edXObjectOrientedProgramming" selected="True" />
+          <Node name="mod1_A" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mod1__A PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

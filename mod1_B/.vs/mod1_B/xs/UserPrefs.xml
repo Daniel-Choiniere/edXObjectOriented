@@ -1,18 +1,18 @@
-﻿<Properties StartupConfiguration="{12ED5388-DD81-4915-8507-540371CBA1D0}|Default">
-  <MonoDevelop.Ide.ItemProperties.mod1__B FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.mod2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{9D9C83EA-77BB-41CA-83A9-BE73F232631B}|Default">
+  <MonoDevelop.Ide.ItemProperties.mod1__B PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../mod2/Program.cs">
+    <Files>
+      <File FileName="../mod2/Program.cs" Line="12" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="edXObjectOrientedProgramming" expanded="True">
-            <Node name="mod1_A" selected="True" />
-          </Node>
+          <Node />
         </State>
       </Pad>
       <Pad Id="ClassPad">
         <State name="__root__">
-          <Node name="edXObjectOrientedProgramming" selected="True" />
+          <Node name="mod1_B" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
