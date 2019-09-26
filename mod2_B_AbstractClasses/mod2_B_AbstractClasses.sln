@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod2_B_AbstractClasses", "mod2_B_AbstractClasses\mod2_B_AbstractClasses.csproj", "{DE8354DE-A12C-406E-AAB1-69E4C585CCDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8354DE-A12C-406E-AAB1-69E4C585CCDF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DE8354DE-A12C-406E-AAB1-69E4C585CCDF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DE8354DE-A12C-406E-AAB1-69E4C585CCDF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DE8354DE-A12C-406E-AAB1-69E4C585CCDF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DE8354DE-A12C-406E-AAB1-69E4C585CCDF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mod2_B_AbstractClasses/Program.cs">
+    <Files>
+      <File FileName="mod2_B_AbstractClasses/Program.cs" Line="10" Column="57" />
+      <File FileName="mod2_B_AbstractClasses/Employee.cs" Line="38" Column="49" />
+      <File FileName="mod2_B_AbstractClasses/TechnicalEmployee.cs" Line="23" Column="6" />
+      <File FileName="mod2_B_AbstractClasses/BusinessEmployee.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mod2_B_AbstractClasses" expanded="True">
+            <Node name="mod2_B_AbstractClasses" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="mod2_B_AbstractClasses" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mod2__B__AbstractClasses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
